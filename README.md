@@ -1,2 +1,2 @@
 # my-load-balancer
-learning how load balancer works by building it
+learning how a load balancer works by building it
